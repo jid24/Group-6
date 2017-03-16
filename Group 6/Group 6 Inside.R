@@ -5,3 +5,5 @@ yarray<-array(data=c(y1,y2),dim=c(3,3,2))
 yarray[,,2]  
 apply (yarray[,,2],1,sum)
 yarray[,,1]+yarray[,,2]
+
+print("domi sucks")
